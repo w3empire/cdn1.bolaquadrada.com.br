@@ -1,0 +1,1 @@
+This repo contains static image assets used by the BolaQuadrada.com.br website/github project for article content.
