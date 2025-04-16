@@ -1,1 +1,1 @@
-This repo contains static image assets used by the BolaQuadrada.com.br website/github project for article content.
+This repo hosts images used by the BolaQuadrada.com.br site, deployed via GitHub Pages and cached with Cloudflare.
